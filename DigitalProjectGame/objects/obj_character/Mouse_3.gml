@@ -1,1 +1,1 @@
-x = script_execute(mouse_position_movement);
+x = 
