@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "6111dba3-0fa4-457e-b8ff-3917c0e906f8",
+            "Value": {
+                "id": "a2234af4-073a-491e-9f62-e61f72b0282c",
+                "resourcePath": "datafiles_yy\\Minecraft.ttf.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "63852abd-d3f5-456d-87cd-40c788eebf0d",
             "Value": {
                 "id": "3f09656b-32f0-4eab-8ee8-ec6370f51aa0",
@@ -951,6 +959,14 @@
             }
         },
         {
+            "Key": "d4dcf64c-c073-4754-86b4-e420f0a57a41",
+            "Value": {
+                "id": "f3bd94b7-8cff-4d58-a723-a9e722517f9e",
+                "resourcePath": "scripts\\mouse_position_movement\\mouse_position_movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d7916ae7-1da7-46d7-bdef-353a59d7177d",
             "Value": {
                 "id": "3fbfe4a7-8ab2-4770-8677-dd629815a26e",
@@ -970,7 +986,7 @@
             "Key": "e76195c1-93d2-400d-a8a3-1d3dba0c2c0b",
             "Value": {
                 "id": "40080241-0d58-47fe-9e58-51f289001cae",
-                "resourcePath": "objects\\object5\\object5.yy",
+                "resourcePath": "objects\\obj_character\\obj_character.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1167,7 +1183,8 @@
         "ca5eded2-ab6e-46d8-baf9-e8711db6c21d",
         "2132b54d-f1fd-42a1-9bbb-5c81efc67cc7",
         "2db7b9c8-4830-4552-9d0a-3158a6c1f8e4",
-        "b16484d5-404c-407e-8a20-f1790ee04833"
+        "b16484d5-404c-407e-8a20-f1790ee04833",
+        "d4dcf64c-c073-4754-86b4-e420f0a57a41"
     ],
     "tutorial": ""
 }
