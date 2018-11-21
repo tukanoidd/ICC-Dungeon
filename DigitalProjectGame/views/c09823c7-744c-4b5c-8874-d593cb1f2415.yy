@@ -18,8 +18,6 @@
         "2f475b43-2220-435b-bf82-88289ee087c5",
         "1e93d521-28f8-46b2-a925-15f5c3bed9c8",
         "38018001-93f5-44b7-80e7-cf9cf49fc3d2",
-<<<<<<< HEAD
-<<<<<<< HEAD
         "ecfdf2dd-63cc-401c-9b02-a78ed2fc9d00",
         "1ff19e93-a772-4fa8-ba54-a09d58a93031",
         "29160d70-6a4c-4086-98df-2a1526a6d25b",
@@ -30,7 +28,6 @@
         "c0f988f4-eb82-444a-b8ef-425c3d5b0cd9",
         "c6e84f3a-a22f-4791-b6e1-e3c3e1e44212",
         "c82f5a7c-fcdb-42d7-b9b1-315e5e5c9ccb",
-=======
         "4fe9a768-80ac-4ec1-9f21-3ec82cc000e2",
         "1ff19e93-a772-4fa8-ba54-a09d58a93031",
         "29160d70-6a4c-4086-98df-2a1526a6d25b",
@@ -41,13 +38,10 @@
         "c0f988f4-eb82-444a-b8ef-425c3d5b0cd9",
         "c82f5a7c-fcdb-42d7-b9b1-315e5e5c9ccb",
         "c6e84f3a-a22f-4791-b6e1-e3c3e1e44212",
->>>>>>> d666c0ed09dc48e8650140ac8430efb3540951f2
         "cbd3ea39-5f3f-4bb4-9ce6-41898a2451b8",
         "dc209f4e-f241-4df3-b6fe-1d27234c57f1",
         "f024b6d0-0bf0-426d-89d2-ab07130ef126"
-=======
         "d01c787e-df58-460f-9593-d6a2be00ab75"
->>>>>>> 8830463738eee7d3778569edbd18d5e9b69d2f67
     ],
     "filterType": "root",
     "folderName": "Default",
