@@ -447,6 +447,14 @@
             }
         },
         {
+            "Key": "6111dba3-0fa4-457e-b8ff-3917c0e906f8",
+            "Value": {
+                "id": "a2234af4-073a-491e-9f62-e61f72b0282c",
+                "resourcePath": "datafiles_yy\\Minecraft.ttf.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "63852abd-d3f5-456d-87cd-40c788eebf0d",
             "Value": {
                 "id": "3f09656b-32f0-4eab-8ee8-ec6370f51aa0",
@@ -986,7 +994,7 @@
             "Key": "e76195c1-93d2-400d-a8a3-1d3dba0c2c0b",
             "Value": {
                 "id": "40080241-0d58-47fe-9e58-51f289001cae",
-                "resourcePath": "objects\\object5\\object5.yy",
+                "resourcePath": "objects\\obj_character\\obj_character.yy",
                 "resourceType": "GMObject"
             }
         },
