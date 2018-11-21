@@ -959,14 +959,6 @@
             }
         },
         {
-            "Key": "d4dcf64c-c073-4754-86b4-e420f0a57a41",
-            "Value": {
-                "id": "f3bd94b7-8cff-4d58-a723-a9e722517f9e",
-                "resourcePath": "scripts\\mouse_position_movement\\mouse_position_movement.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "d7916ae7-1da7-46d7-bdef-353a59d7177d",
             "Value": {
                 "id": "3fbfe4a7-8ab2-4770-8677-dd629815a26e",
@@ -1183,8 +1175,7 @@
         "ca5eded2-ab6e-46d8-baf9-e8711db6c21d",
         "2132b54d-f1fd-42a1-9bbb-5c81efc67cc7",
         "2db7b9c8-4830-4552-9d0a-3158a6c1f8e4",
-        "b16484d5-404c-407e-8a20-f1790ee04833",
-        "d4dcf64c-c073-4754-86b4-e420f0a57a41"
+        "b16484d5-404c-407e-8a20-f1790ee04833"
     ],
     "tutorial": ""
 }
