@@ -4,5 +4,9 @@ if (!position_meeting(mouse_x, y, self)) {
 }
 
 else {
+	sprite_index = spr_character;
 	speed = 0;
 }
+
+if (x + 64 < mouse_x) sprite_index = sprite_right;
+else if (x > mouse_x) sprite_index = sprite_left;
