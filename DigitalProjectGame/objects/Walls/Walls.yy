@@ -1,19 +1,10 @@
 {
-    "id": "e76195c1-93d2-400d-a8a3-1d3dba0c2c0b",
+    "id": "1efcd6e9-e305-4c79-8aa5-c134fb02e3e2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_character",
+    "name": "Walls",
     "eventList": [
-        {
-            "id": "ba4953dd-a643-4457-8e9f-af75ed379cf6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "e76195c1-93d2-400d-a8a3-1d3dba0c2c0b"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -32,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "f024b6d0-0bf0-426d-89d2-ab07130ef126",
+    "solid": false,
+    "spriteId": "dc209f4e-f241-4df3-b6fe-1d27234c57f1",
     "visible": true
 }

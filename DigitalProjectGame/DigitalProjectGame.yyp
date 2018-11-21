@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1efcd6e9-e305-4c79-8aa5-c134fb02e3e2",
+            "Value": {
+                "id": "55cc92a5-62bd-45c8-a0d1-cd41559ca9e3",
+                "resourcePath": "objects\\Walls\\Walls.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1fe16bbd-9e09-4931-894e-d57a1985a839",
             "Value": {
                 "id": "6936777a-f295-48de-9ce0-74d91a4e524d",
@@ -959,14 +967,6 @@
             }
         },
         {
-            "Key": "d4dcf64c-c073-4754-86b4-e420f0a57a41",
-            "Value": {
-                "id": "f3bd94b7-8cff-4d58-a723-a9e722517f9e",
-                "resourcePath": "scripts\\mouse_position_movement\\mouse_position_movement.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "d7916ae7-1da7-46d7-bdef-353a59d7177d",
             "Value": {
                 "id": "3fbfe4a7-8ab2-4770-8677-dd629815a26e",
@@ -980,6 +980,14 @@
                 "id": "6c7ec3e2-b57d-40a0-a4c3-707c1f12aa43",
                 "resourcePath": "scripts\\db_export\\db_export.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "dc209f4e-f241-4df3-b6fe-1d27234c57f1",
+            "Value": {
+                "id": "3ec3f6ec-4ae8-4c4b-8ef6-b4010dc9729b",
+                "resourcePath": "sprites\\stone\\stone.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1183,8 +1191,7 @@
         "ca5eded2-ab6e-46d8-baf9-e8711db6c21d",
         "2132b54d-f1fd-42a1-9bbb-5c81efc67cc7",
         "2db7b9c8-4830-4552-9d0a-3158a6c1f8e4",
-        "b16484d5-404c-407e-8a20-f1790ee04833",
-        "d4dcf64c-c073-4754-86b4-e420f0a57a41"
+        "b16484d5-404c-407e-8a20-f1790ee04833"
     ],
     "tutorial": ""
 }
