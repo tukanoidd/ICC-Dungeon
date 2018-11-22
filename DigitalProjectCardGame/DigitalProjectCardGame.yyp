@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "000dc0aa-5cd8-4396-b640-8b2c7b9bdbdf",
+            "Value": {
+                "id": "aac78cf7-d74f-4911-9d79-a74042fa0142",
+                "resourcePath": "sprites\\stone_corner_bottom_right\\stone_corner_bottom_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0335adb1-30c3-488f-abb3-25097b259dd5",
             "Value": {
                 "id": "a1886a09-b044-4b41-b63d-8da59b72e01f",
@@ -100,6 +108,14 @@
                 "id": "0725bc3a-0992-4924-b99d-49aea28bf28f",
                 "resourcePath": "scripts\\_db_qf_select_ids\\_db_qf_select_ids.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1995c4e0-a77e-4464-89aa-cbb042cf66c6",
+            "Value": {
+                "id": "bfe1ed6d-697c-450f-be65-593cb10dd841",
+                "resourcePath": "sprites\\stone_int_corner_top_left\\stone_int_corner_top_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -183,6 +199,14 @@
             }
         },
         {
+            "Key": "2c91782d-7a21-4ccf-8731-5027bad561a2",
+            "Value": {
+                "id": "f72bcd6e-87c8-431a-ab14-a8e5bc1082bd",
+                "resourcePath": "sprites\\stone_int_corner_top_right\\stone_int_corner_top_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2db7b9c8-4830-4552-9d0a-3158a6c1f8e4",
             "Value": {
                 "id": "7dcb1540-1420-43cf-a858-0fa59f549883",
@@ -255,6 +279,14 @@
             }
         },
         {
+            "Key": "3494c301-6673-4389-b029-60cb2a3ad9ca",
+            "Value": {
+                "id": "e62610cd-beea-4040-945c-b9ac1f4e8256",
+                "resourcePath": "sprites\\stone_int_corner_bottom_left\\stone_int_corner_bottom_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "38039167-ed3c-49ca-b5bf-9b2e359e1fb0",
             "Value": {
                 "id": "abd9315d-031a-4edd-ae13-c6ce46da38a0",
@@ -287,11 +319,27 @@
             }
         },
         {
+            "Key": "3ca55e77-7a83-452d-8144-9cbd6df3f9e9",
+            "Value": {
+                "id": "22389da9-0c28-4904-8d39-5a6ccb9a8169",
+                "resourcePath": "sprites\\stone_int_corner_bottom_right\\stone_int_corner_bottom_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ea0e4e5-42d7-4642-906e-0656e8e7068e",
             "Value": {
                 "id": "49cc16ac-c843-46ce-adcc-9ab4c7d0a251",
                 "resourcePath": "objects\\obj_db_scrollbar\\obj_db_scrollbar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3f1cc979-6885-4aad-8c04-b261a23c906e",
+            "Value": {
+                "id": "a024d596-bc6d-4bc4-a51f-5617ea525da2",
+                "resourcePath": "sprites\\stone_right\\stone_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -324,14 +372,6 @@
                 "id": "9dc24f05-8f5f-4458-b2a3-f4c98062af8b",
                 "resourcePath": "datafiles_yy\\Fipps-Regular.otf.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "45417d24-a8c3-4d0d-82ac-d7d8b4d67d2d",
-            "Value": {
-                "id": "956b8f42-07d9-47d8-98ff-1a4ca0b7ddcf",
-                "resourcePath": "sprites\\stone_corner_top_right\\stone_corner_top_right.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -380,6 +420,14 @@
                 "id": "e7152778-2867-48ff-91ca-c2333e8678fa",
                 "resourcePath": "views\\52b08832-7629-48b6-9326-e3aa434ae451.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "541eb852-9928-4536-8992-393d8c65350e",
+            "Value": {
+                "id": "fb95298d-9d51-49e2-9aa9-bf1908f56521",
+                "resourcePath": "sprites\\stone_int_top_and_bottom\\stone_int_top_and_bottom.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -975,6 +1023,14 @@
             }
         },
         {
+            "Key": "cecb2952-c806-4d96-9c77-28f2e3223f23",
+            "Value": {
+                "id": "e3753266-18cc-4738-9daf-7ea1fa1fc2ec",
+                "resourcePath": "sprites\\stone_corner_top_right\\stone_corner_top_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cf48dc34-b6a1-4d8e-a7c8-f8c23105bdd4",
             "Value": {
                 "id": "f6f2b162-073a-4817-88da-2f9609074fb0",
@@ -1031,14 +1087,6 @@
             }
         },
         {
-            "Key": "e4a33ee4-70ad-4c50-b1f6-bea28205aabb",
-            "Value": {
-                "id": "f20646ec-87d9-4cbd-97e4-dc1335a306df",
-                "resourcePath": "sprites\\stone_corner_bottom_right\\stone_corner_bottom_right.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e76195c1-93d2-400d-a8a3-1d3dba0c2c0b",
             "Value": {
                 "id": "25b292fc-6029-4fe9-8077-89cd65dfd37f",
@@ -1052,6 +1100,14 @@
                 "id": "cce0c8d0-3735-42b4-a873-e24dcc670f55",
                 "resourcePath": "scripts\\_db_qf_sort\\_db_qf_sort.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e96dc54c-4800-44f6-ae72-ad1c45165b8f",
+            "Value": {
+                "id": "39487549-ba46-43b1-93b0-c24188a84622",
+                "resourcePath": "sprites\\stone_int_left_and_right\\stone_int_left_and_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1100,14 +1156,6 @@
                 "id": "7b02074e-cce8-4bc7-ab79-e11f7954d474",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f42477e7-043c-4834-9ea3-f616a326d47c",
-            "Value": {
-                "id": "512dbb65-4feb-4c3a-8855-b54702fb6daa",
-                "resourcePath": "sprites\\stone_right\\stone_right.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
