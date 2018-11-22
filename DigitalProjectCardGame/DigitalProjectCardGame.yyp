@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "2bebec29-fb34-4d3a-b3f5-184a41ef2012",
+            "Value": {
+                "id": "4b0fa7c0-c56b-448c-9896-e9dfdc57ce8b",
+                "resourcePath": "sprites\\room_floor\\room_floor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2c91782d-7a21-4ccf-8731-5027bad561a2",
             "Value": {
                 "id": "f72bcd6e-87c8-431a-ab14-a8e5bc1082bd",
