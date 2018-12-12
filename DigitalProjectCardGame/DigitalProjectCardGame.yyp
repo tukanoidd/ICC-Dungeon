@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "02e18bf9-4ed5-4e46-80af-67d682711dc1",
+            "Value": {
+                "id": "9f8037fc-2d0e-44f6-a492-02e14f2953e8",
+                "resourcePath": "sprites\\exit_button_idle\\exit_button_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0335adb1-30c3-488f-abb3-25097b259dd5",
             "Value": {
                 "id": "a1886a09-b044-4b41-b63d-8da59b72e01f",
@@ -711,6 +719,14 @@
             }
         },
         {
+            "Key": "8c9421f2-b73b-49da-a23e-c2c7a5df1287",
+            "Value": {
+                "id": "53f514a2-88dc-402a-ab4b-c1f93d59ea10",
+                "resourcePath": "objects\\exit_button\\exit_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8cedce8e-04d8-4d96-8fea-4b01fded303d",
             "Value": {
                 "id": "6004ae1f-58d3-4c0d-9a12-44eb1b4744a3",
@@ -1031,6 +1047,14 @@
             }
         },
         {
+            "Key": "becb7312-91ce-43c9-a11a-1507e2acd72a",
+            "Value": {
+                "id": "4ddd2011-594c-419b-abf7-6b6fe8150d99",
+                "resourcePath": "sprites\\exit_button_clicked\\exit_button_clicked.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1ce8533-d524-49f0-9076-6625ec4274ca",
             "Value": {
                 "id": "f1082aad-9e2c-49d8-b409-b5f616123ef8",
@@ -1183,6 +1207,14 @@
             }
         },
         {
+            "Key": "de3b8f58-cdf5-4eb0-b415-1006d878c630",
+            "Value": {
+                "id": "3719eed2-282d-4cff-a0a6-3a605e78e30c",
+                "resourcePath": "views\\de3b8f58-cdf5-4eb0-b415-1006d878c630.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e10853be-4e68-4083-990a-1f3a2f16061a",
             "Value": {
                 "id": "39ae8e91-01a9-4ec1-9151-b7b4b192aed7",
@@ -1284,6 +1316,14 @@
                 "id": "7fada593-3e05-4858-8071-f4f175398745",
                 "resourcePath": "scripts\\_db_table_read\\_db_table_read.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f5446d5b-382c-401d-b669-0f40952b1a6b",
+            "Value": {
+                "id": "db566539-e221-4813-bbd4-9b32d2af8b20",
+                "resourcePath": "sprites\\exit_button_hover\\exit_button_hover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

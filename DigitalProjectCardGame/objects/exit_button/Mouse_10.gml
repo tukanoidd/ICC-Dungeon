@@ -1,0 +1,1 @@
+sprite_index = exit_button_hover;
