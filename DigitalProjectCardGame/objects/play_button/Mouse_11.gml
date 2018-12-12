@@ -1,0 +1,1 @@
+sprite_index = play_button_idle;
