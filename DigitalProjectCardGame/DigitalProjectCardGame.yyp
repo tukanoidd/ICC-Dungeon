@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0e985802-d607-4846-be10-a3d1b20c6b8b",
+            "Value": {
+                "id": "07d16b5c-2cdf-463d-aeda-4c926c064a2c",
+                "resourcePath": "objects\\obj_card\\obj_card.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1096ac62-5937-407c-91f7-6d4e82cc08bd",
             "Value": {
                 "id": "c3a72a01-6904-4f58-91cd-102c1288cef2",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "3af692a5-9e18-4d20-bf92-6cc14b384fb7",
+            "Value": {
+                "id": "fdb5be27-c026-41ec-bac0-3055a47371c4",
+                "resourcePath": "views\\3af692a5-9e18-4d20-bf92-6cc14b384fb7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3b0b02f5-b72b-4194-aa83-2696ae2f2dcb",
             "Value": {
                 "id": "ef097b66-b873-4d11-b19c-5e89be123782",
@@ -468,6 +484,14 @@
                 "id": "a729393b-1ea7-4ff0-bb57-862fbf38bfde",
                 "resourcePath": "sprites\\stone_corner_top_left\\stone_corner_top_left.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60a6b46c-6bdf-4480-bebd-293ac5b58f67",
+            "Value": {
+                "id": "5e9f6da9-5801-49f6-ad05-9b67c45a53a3",
+                "resourcePath": "scripts\\card_generator\\card_generator.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -660,6 +684,14 @@
                 "id": "77f49fae-960a-4fe6-83db-53cd516ede6d",
                 "resourcePath": "views\\8d417e9b-c7cf-47bb-a4a8-ee9154b3bded.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e136739-6f76-494d-a8f0-6d9262235108",
+            "Value": {
+                "id": "4dd6e9d6-1a17-4b0a-a366-603f83c24c1b",
+                "resourcePath": "sprites\\card_back_spr\\card_back_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1023,6 +1055,14 @@
             }
         },
         {
+            "Key": "cb7720e3-5fd3-4f6c-a586-2cebb94c1b2e",
+            "Value": {
+                "id": "17688550-bfd8-42cf-8c0e-800f49637781",
+                "resourcePath": "sprites\\card_face_spr\\card_face_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "6a20d2c9-3195-458b-b203-588609b52928",
@@ -1079,6 +1119,14 @@
             }
         },
         {
+            "Key": "dda5d2db-67f2-40a5-a0f8-92ed0ba48489",
+            "Value": {
+                "id": "9686aa56-f5e2-4581-825f-f5117f7aa0f6",
+                "resourcePath": "views\\dda5d2db-67f2-40a5-a0f8-92ed0ba48489.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e10853be-4e68-4083-990a-1f3a2f16061a",
             "Value": {
                 "id": "39ae8e91-01a9-4ec1-9151-b7b4b192aed7",
@@ -1116,6 +1164,14 @@
                 "id": "39487549-ba46-43b1-93b0-c24188a84622",
                 "resourcePath": "sprites\\stone_int_left_and_right\\stone_int_left_and_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e9a9486f-0837-4f5e-8c16-845aabfe2996",
+            "Value": {
+                "id": "6dcd599d-b848-4f23-88c8-114a703cf619",
+                "resourcePath": "views\\e9a9486f-0837-4f5e-8c16-845aabfe2996.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1319,7 +1375,8 @@
         "ca5eded2-ab6e-46d8-baf9-e8711db6c21d",
         "2132b54d-f1fd-42a1-9bbb-5c81efc67cc7",
         "2db7b9c8-4830-4552-9d0a-3158a6c1f8e4",
-        "b16484d5-404c-407e-8a20-f1790ee04833"
+        "b16484d5-404c-407e-8a20-f1790ee04833",
+        "60a6b46c-6bdf-4480-bebd-293ac5b58f67"
     ],
     "tutorial": ""
 }
