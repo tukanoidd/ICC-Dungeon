@@ -1,2 +1,2 @@
 target_x = 0;
-spd = 30;
+spd = 50;

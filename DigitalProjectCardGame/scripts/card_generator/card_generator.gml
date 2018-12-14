@@ -1,4 +1,4 @@
-spd = 30;
+spd = 50;
 
 card1 = instance_create_layer(-100, room_height/2, "Instances", obj_card);
 with (card1) { target_x = 463.75; move_towards_point(463.75, room_height/2, spd); }
