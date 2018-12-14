@@ -2,7 +2,7 @@
 {
     "name": "rm_db_exp",
     "id": "fa7366e0-426c-4de1-9764-3d812ecdc1de",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

@@ -1,2 +1,1 @@
-
-
+card_generator();
