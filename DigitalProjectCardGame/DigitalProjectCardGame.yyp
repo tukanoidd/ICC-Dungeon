@@ -1007,6 +1007,14 @@
             }
         },
         {
+            "Key": "b8d7843f-f69b-4f66-b9d4-465f0f48c5bb",
+            "Value": {
+                "id": "2b83126b-7af7-41ee-8d6c-2b9c9e1246bf",
+                "resourcePath": "objects\\wall\\wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b9213f00-9ea4-4fb7-b83a-3174de6ebc58",
             "Value": {
                 "id": "83a44ba8-6c5e-4ae4-bae7-4aba6301dc53",
