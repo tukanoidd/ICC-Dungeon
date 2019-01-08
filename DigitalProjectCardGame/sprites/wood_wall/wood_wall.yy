@@ -2,7 +2,7 @@
     "id": "2bebec29-fb34-4d3a-b3f5-184a41ef2012",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "room_floor",
+    "name": "wood_wall",
     "For3D": false,
     "HTile": false,
     "VTile": false,
