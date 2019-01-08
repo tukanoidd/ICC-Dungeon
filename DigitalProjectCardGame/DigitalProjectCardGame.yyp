@@ -258,7 +258,7 @@
             "Key": "2ea64d39-a17a-4d6f-93a9-48464b6c6358",
             "Value": {
                 "id": "7c1e1c58-318c-4161-aaec-876584310970",
-                "resourcePath": "sprites\\character_left\\character_left.yy",
+                "resourcePath": "sprites\\char_walk_left\\char_walk_left.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1306,7 +1306,7 @@
             "Key": "eb199528-60da-4935-90f2-27a1fe5a3074",
             "Value": {
                 "id": "eb2bfdd5-29ea-4117-9682-572041c6d0de",
-                "resourcePath": "sprites\\character_right\\character_right.yy",
+                "resourcePath": "sprites\\char_walk_right\\char_walk_right.yy",
                 "resourceType": "GMSprite"
             }
         },
