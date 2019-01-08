@@ -88,4 +88,67 @@ db_table_create("scenarios", [
 				]]
 			]]
 		]],
+		[5, [
+			["question", ""],
+			["answers", [
+				[1, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[2, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[3, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[4, [
+					["answer", ""],
+					["points", 0]
+				]]
+			]]
+		]],
+		[6, [
+			["question", ""],
+			["answers", [
+				[1, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[2, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[3, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[4, [
+					["answer", ""],
+					["points", 0]
+				]]
+			]]
+		]],
+		[7, [
+			["question", ""],
+			["answers", [
+				[1, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[2, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[3, [
+					["answer", ""],
+					["points", 0]
+				]],
+				[4, [
+					["answer", ""],
+					["points", 0]
+				]]
+			]]
+		]],
 	]]]);
