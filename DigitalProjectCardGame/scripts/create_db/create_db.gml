@@ -23,6 +23,12 @@ db_table_create("scenarios", [
 					["answer", ""],
 					["points", 0]
 				]]
+			]],
+			["explanations", [
+				[1, ""],
+				[2, ""],
+				[3, ""],
+				[4, ""]
 			]]
 		]],
 		[2, [
@@ -44,6 +50,12 @@ db_table_create("scenarios", [
 					["answer", ""],
 					["points", 0]
 				]]
+			]],
+			["explanations", [
+				[1, ""],
+				[2, ""],
+				[3, ""],
+				[4, ""]
 			]]
 		]],
 		[3, [
@@ -65,6 +77,12 @@ db_table_create("scenarios", [
 					["answer", ""],
 					["points", 0]
 				]]
+			]],
+			["explanations", [
+				[1, ""],
+				[2, ""],
+				[3, ""],
+				[4, ""]
 			]]
 		]],
 		[4, [
@@ -86,6 +104,12 @@ db_table_create("scenarios", [
 					["answer", ""],
 					["points", 0]
 				]]
+			]],
+			["explanations", [
+				[1, ""],
+				[2, ""],
+				[3, ""],
+				[4, ""]
 			]]
 		]],
 		[5, [
@@ -107,6 +131,12 @@ db_table_create("scenarios", [
 					["answer", ""],
 					["points", 0]
 				]]
+			]],
+			["explanations", [
+				[1, ""],
+				[2, ""],
+				[3, ""],
+				[4, ""]
 			]]
 		]],
 		[6, [
@@ -128,6 +158,12 @@ db_table_create("scenarios", [
 					["answer", ""],
 					["points", 0]
 				]]
+			]],
+			["explanations", [
+				[1, ""],
+				[2, ""],
+				[3, ""],
+				[4, ""]
 			]]
 		]],
 		[7, [
@@ -149,6 +185,12 @@ db_table_create("scenarios", [
 					["answer", ""],
 					["points", 0]
 				]]
+			]],
+			["explanations", [
+				[1, ""],
+				[2, ""],
+				[3, ""],
+				[4, ""]
 			]]
 		]],
 	]]]);
