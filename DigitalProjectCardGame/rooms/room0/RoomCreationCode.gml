@@ -1,3 +1,5 @@
+audio_stop_all();
+
 card_generator();
 create_db();
 
