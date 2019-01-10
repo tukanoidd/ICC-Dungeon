@@ -11,7 +11,3 @@ if (pressed && first_clicked) {
 	draw_set_halign(fa_center);
 	draw_text_ext(x + 160, y + 61, "You get " + string(points) + " points. " + exp_str, 20, 244);
 }
-
-else {
-
-}
