@@ -1,5 +1,7 @@
 audio_stop_all();
 
+global.countries = ["spain", "russia", "sweden", "netherlands"];
+
 card_generator();
 create_db();
 

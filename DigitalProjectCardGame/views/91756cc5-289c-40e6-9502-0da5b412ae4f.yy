@@ -6,8 +6,7 @@
     "children": [
         "4487617a-2b3a-4354-aa89-10b17706659a",
         "aaf0a0d1-d845-4524-82de-f6ae9da13389",
-        "e407783e-44b7-4ee8-9e0f-bfc7925e2fe0",
-        "10a690cc-79e1-4cad-a31b-1138be578d64"
+        "e407783e-44b7-4ee8-9e0f-bfc7925e2fe0"
     ],
     "filterType": "GMIncludedFile",
     "folderName": "datafiles",

@@ -1,0 +1,12 @@
+db : {
+	{country} : {
+		"question": {question},
+		"answers" : {
+			{number} : {
+				"answer": {answer},
+				"points": {points}
+			}
+		},
+		"explanation": {explanation}
+	}
+}
