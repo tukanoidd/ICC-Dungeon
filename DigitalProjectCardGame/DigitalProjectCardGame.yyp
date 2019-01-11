@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01bc3473-0daf-4e5f-bfe2-44400fb06979",
+            "Value": {
+                "id": "0f7113df-f496-4a54-bcf2-c710cb66c912",
+                "resourcePath": "sprites\\question_textbox\\question_textbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "02e18bf9-4ed5-4e46-80af-67d682711dc1",
             "Value": {
                 "id": "9f8037fc-2d0e-44f6-a492-02e14f2953e8",
@@ -399,6 +407,14 @@
             }
         },
         {
+            "Key": "ad3db8c8-6013-4ddc-bd77-7be7014369fd",
+            "Value": {
+                "id": "ffcceaa1-fbbc-4d30-b52c-bc8f318093cc",
+                "resourcePath": "views\\ad3db8c8-6013-4ddc-bd77-7be7014369fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b2642de9-9b64-4667-8763-84a20a42ec87",
             "Value": {
                 "id": "baa5f09a-92fc-45d4-8256-cc57d357fe45",
@@ -436,6 +452,14 @@
                 "id": "292e3090-c472-4beb-b814-e5e89d1cf6ad",
                 "resourcePath": "views\\b990d494-b9fa-4055-a350-fa710e1b6c27.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b997d138-cebf-45c0-8f64-f86c0db7f7a6",
+            "Value": {
+                "id": "291fce28-cdff-449e-9e88-1c9bf057769d",
+                "resourcePath": "sprites\\ans_textbox_hover\\ans_textbox_hover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -623,11 +647,27 @@
             }
         },
         {
+            "Key": "f353f362-fa32-4198-ad78-894bcce17141",
+            "Value": {
+                "id": "ecc2390d-d7b5-42ff-a1d5-c5566a9060f0",
+                "resourcePath": "views\\f353f362-fa32-4198-ad78-894bcce17141.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "7b02074e-cce8-4bc7-ab79-e11f7954d474",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4ee477c-2187-4402-a436-da2d5b313f3f",
+            "Value": {
+                "id": "e2305591-670c-4381-ac94-241ac8c778ab",
+                "resourcePath": "sprites\\ans_textbox_idle\\ans_textbox_idle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
