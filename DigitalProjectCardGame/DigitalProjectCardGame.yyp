@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0097de8f-1fe9-4620-ab6e-cf4a079cac6c",
+            "Value": {
+                "id": "d23a176f-6711-487d-a60b-dd6f259f8c5b",
+                "resourcePath": "objects\\guardian_obj\\guardian_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "01bc3473-0daf-4e5f-bfe2-44400fb06979",
             "Value": {
                 "id": "0f7113df-f496-4a54-bcf2-c710cb66c912",
@@ -147,14 +155,6 @@
             "Value": {
                 "id": "9168e011-f912-4f33-8727-0907da9665c7",
                 "resourcePath": "sprites\\points_textbox\\points_textbox.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2bebec29-fb34-4d3a-b3f5-184a41ef2012",
-            "Value": {
-                "id": "4b0fa7c0-c56b-448c-9896-e9dfdc57ce8b",
-                "resourcePath": "sprites\\wood_wall\\wood_wall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -295,11 +295,43 @@
             }
         },
         {
+            "Key": "68aee582-8e5e-4fe3-97f9-cc74fd27e6d4",
+            "Value": {
+                "id": "4b7b43f4-4c56-443e-b783-7b630aa9eaaf",
+                "resourcePath": "sprites\\back_wall\\back_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6aaed09b-5b00-415a-8c2b-5421c0282547",
             "Value": {
                 "id": "2a6fd6fc-042f-40c3-99dd-1e1888916ecd",
                 "resourcePath": "objects\\obj_door\\obj_door.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6bc55eb6-e87b-421a-a9d2-01173d8bc691",
+            "Value": {
+                "id": "675e6c60-9660-42e6-9db1-f2e3d0320bc5",
+                "resourcePath": "sprites\\dialog_box\\dialog_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6ca39878-d6e3-4216-ba7c-4f41e2eb29c6",
+            "Value": {
+                "id": "9d7b1ef9-4a2b-4f4d-ba73-acfe4386c03a",
+                "resourcePath": "rooms\\story_start\\story_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "73355116-5f2f-4426-bf0f-3f1df34c93f9",
+            "Value": {
+                "id": "89a8447c-a955-48f3-93e0-67430117111c",
+                "resourcePath": "fonts\\story_font\\story_font.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -404,6 +436,14 @@
                 "id": "a7f02624-1dfa-4375-a819-c95485a3576e",
                 "resourcePath": "views\\91756cc5-289c-40e6-9502-0da5b412ae4f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9382ea1f-9f42-43f2-9f17-c47544c64561",
+            "Value": {
+                "id": "480c3e0d-d358-43ba-a3f6-cc2e236439a4",
+                "resourcePath": "sprites\\background_cave\\background_cave.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -559,11 +599,27 @@
             }
         },
         {
+            "Key": "d088c17f-f1d7-46ca-a9dd-a2913b197065",
+            "Value": {
+                "id": "6cf7096e-ff1e-435d-a762-b9c50a3e835c",
+                "resourcePath": "views\\d088c17f-f1d7-46ca-a9dd-a2913b197065.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d3f51259-29bc-4db5-9a36-db9f6de2c37a",
             "Value": {
                 "id": "ff4ab77f-ec99-44b6-bba7-ac83304e65fc",
                 "resourcePath": "sprites\\door\\door.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4288588-2492-4ffb-8e6b-3d2709c33aae",
+            "Value": {
+                "id": "428dec07-abf5-44cf-8631-26027aea0d64",
+                "resourcePath": "objects\\story_obj\\story_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -607,6 +663,14 @@
             }
         },
         {
+            "Key": "dffa7b31-05a5-4d8a-950c-9666511cb779",
+            "Value": {
+                "id": "f713870a-86c1-4dd2-8f44-129d9bd46b75",
+                "resourcePath": "sprites\\coin_spr\\coin_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e057c728-0e56-493d-abdb-71e80a268021",
             "Value": {
                 "id": "691cfd74-bdcc-47e2-9adc-1dfda2528c85",
@@ -628,6 +692,14 @@
                 "id": "25b292fc-6029-4fe9-8077-89cd65dfd37f",
                 "resourcePath": "objects\\obj_character\\obj_character.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e77ec650-cb38-4f5f-a58d-2ad6d5187dba",
+            "Value": {
+                "id": "340c7e4a-740e-46c9-9e66-db53be53b2ed",
+                "resourcePath": "fonts\\dialog_font\\dialog_font.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -695,6 +767,14 @@
             }
         },
         {
+            "Key": "f1cbbb74-68f1-47e6-8360-ffc0c2f00450",
+            "Value": {
+                "id": "878846d9-af6e-499e-91d6-876f4fc95cfe",
+                "resourcePath": "sprites\\guardian_eyes_open\\guardian_eyes_open.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f353f362-fa32-4198-ad78-894bcce17141",
             "Value": {
                 "id": "ecc2390d-d7b5-42ff-a1d5-c5566a9060f0",
@@ -732,6 +812,14 @@
                 "id": "bf22b27f-2e1a-4a71-9cb9-8a9daf1a9704",
                 "resourcePath": "sounds\\background_music_game\\background_music_game.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ff479f06-f77e-4e4d-bed7-1f36d00288ad",
+            "Value": {
+                "id": "e7355b34-76ea-45bb-abd1-13c4207345f3",
+                "resourcePath": "sprites\\guardian_eyes_closed\\guardian_eyes_closed.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
