@@ -6,9 +6,11 @@ points = ans[? "points"];
 exp_str = sc[? "explanation"];
 
 draw_set_color(c_black);
+draw_set_font(-1);
 
 if (pressed && first_clicked) { 
 	draw_set_halign(fa_center);
+	draw_set_font(exp_font);
 	draw_text_ext(x + 160, y + 61, "You get " + string(points) + " points. " + exp_str, 20, 244);
 }
 
