@@ -1,0 +1,1 @@
+global.dialog_read = false;

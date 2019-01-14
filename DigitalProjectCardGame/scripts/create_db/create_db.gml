@@ -6,3 +6,5 @@ ds_map_add_map(global.db, "russia", global.russia_db);
 ds_map_add_map(global.db, "netherlands", global.netherlands_db);
 ds_map_add_map(global.db, "sweden", global.sweden_db);
 ds_map_add_map(global.db, "spain", global.spain_db);
+
+create_dialogs_db();

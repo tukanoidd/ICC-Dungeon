@@ -7,8 +7,8 @@
         "2bebec29-fb34-4d3a-b3f5-184a41ef2012",
         "e057c728-0e56-493d-abdb-71e80a268021",
         "bdd9606a-3e5e-4911-8c87-84fbc3d81e33",
-        "822af224-58c4-4915-8d08-7ddc1e3c7062",
-        "8e902f0f-77fa-46f8-a942-bbd3456debea"
+        "9ca0f325-f6ba-45b4-93d5-841c11cd8580",
+        "822af224-58c4-4915-8d08-7ddc1e3c7062"
     ],
     "filterType": "GMSprite",
     "folderName": "Room",

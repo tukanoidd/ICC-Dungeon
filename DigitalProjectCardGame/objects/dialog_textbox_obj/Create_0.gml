@@ -1,0 +1,1 @@
+str = global.dialogs_db[? global.stage];
