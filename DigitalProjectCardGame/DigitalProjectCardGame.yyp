@@ -407,14 +407,6 @@
             }
         },
         {
-            "Key": "9ca0f325-f6ba-45b4-93d5-841c11cd8580",
-            "Value": {
-                "id": "235ee3c9-38af-4199-bd31-c582b5686e42",
-                "resourcePath": "sprites\\door\\door.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9e9a8568-7e14-4ba5-88c0-b7ca2cbbfece",
             "Value": {
                 "id": "e04a3446-de2e-430e-adae-5f2173ec72b1",
@@ -564,6 +556,14 @@
                 "id": "0bcac817-4bf4-4923-8a75-502e21e24f12",
                 "resourcePath": "scripts\\create_russia_db\\create_russia_db.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d3f51259-29bc-4db5-9a36-db9f6de2c37a",
+            "Value": {
+                "id": "ff4ab77f-ec99-44b6-bba7-ac83304e65fc",
+                "resourcePath": "sprites\\door\\door.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
