@@ -1,6 +1,7 @@
 str = global.dialogs_db[? global.stage];
 
 char = instance_find(obj_character, 0);
+char.can_go = false;
 
 guard = instance_find(guardian_obj, 0);
 guard.sprite_index = guardian_eyes_open;

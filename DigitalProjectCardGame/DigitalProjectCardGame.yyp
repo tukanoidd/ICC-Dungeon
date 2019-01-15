@@ -127,11 +127,27 @@
             }
         },
         {
+            "Key": "1d005bb3-4735-4339-9c22-c782d27f0084",
+            "Value": {
+                "id": "ce89e65c-ad7c-400d-a1fa-e1593b878360",
+                "resourcePath": "objects\\restart_button\\restart_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1ea3a98a-d0ef-43e1-8910-57d966b4efc4",
             "Value": {
                 "id": "fc8361fc-b044-466b-97ae-9695b8c6da03",
                 "resourcePath": "views\\1ea3a98a-d0ef-43e1-8910-57d966b4efc4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "24195dda-978b-464f-8f02-5c5513910458",
+            "Value": {
+                "id": "df49bea5-0da9-4530-9115-71117f3fb456",
+                "resourcePath": "sprites\\restart_button_clicked\\restart_button_clicked.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,6 +223,14 @@
             }
         },
         {
+            "Key": "383f2abd-b5a5-4949-910f-e69317780515",
+            "Value": {
+                "id": "f2614ef7-4c16-4f6d-8963-585fa4ea30f5",
+                "resourcePath": "sprites\\background_field\\background_field.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a390d3a-2577-46fb-baee-cc5d2b3d4754",
             "Value": {
                 "id": "22e4ac4f-9db8-4108-a117-be7f73a2d99e",
@@ -252,6 +276,14 @@
                 "id": "9dc24f05-8f5f-4458-b2a3-f4c98062af8b",
                 "resourcePath": "datafiles_yy\\Fipps-Regular.otf.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "519068ff-bdf5-461e-baca-96c4075e6b1e",
+            "Value": {
+                "id": "0cf7c216-3445-4b33-a333-8d74d8a49880",
+                "resourcePath": "sprites\\restart_button_idle\\restart_button_idle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -315,6 +347,14 @@
             "Value": {
                 "id": "675e6c60-9660-42e6-9db1-f2e3d0320bc5",
                 "resourcePath": "sprites\\dialog_box\\dialog_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6c32a82d-91b5-41f6-b111-59c550ddee07",
+            "Value": {
+                "id": "4b509b3b-4c08-4fbc-8c3d-427575d20a9a",
+                "resourcePath": "sprites\\door_open\\door_open.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -479,11 +519,27 @@
             }
         },
         {
+            "Key": "ad3a5fd3-8ce1-4625-a9bb-63e66d64c66a",
+            "Value": {
+                "id": "b2ae4fa0-5792-467a-8e1d-3ca0439b0ea5",
+                "resourcePath": "views\\ad3a5fd3-8ce1-4625-a9bb-63e66d64c66a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ad3db8c8-6013-4ddc-bd77-7be7014369fd",
             "Value": {
                 "id": "ffcceaa1-fbbc-4d30-b52c-bc8f318093cc",
                 "resourcePath": "views\\ad3db8c8-6013-4ddc-bd77-7be7014369fd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "af1772ba-552b-4268-9953-8b58895b9202",
+            "Value": {
+                "id": "0c78f5fe-d18f-4e54-ae7e-5f3165d4d7fe",
+                "resourcePath": "rooms\\story_end\\story_end.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -532,6 +588,14 @@
                 "id": "291fce28-cdff-449e-9e88-1c9bf057769d",
                 "resourcePath": "sprites\\ans_textbox_hover\\ans_textbox_hover.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc50f0de-7b76-48de-bb87-9a254fd92b74",
+            "Value": {
+                "id": "539b90cd-b516-4836-9c08-2d93b29a6eaa",
+                "resourcePath": "views\\bc50f0de-7b76-48de-bb87-9a254fd92b74.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -812,6 +876,14 @@
                 "id": "bf22b27f-2e1a-4a71-9cb9-8a9daf1a9704",
                 "resourcePath": "sounds\\background_music_game\\background_music_game.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "fd576bfd-6538-41b7-8855-a67163d5006c",
+            "Value": {
+                "id": "e3de7ce0-0679-4e2d-b926-76aa601add75",
+                "resourcePath": "sprites\\restart_button_hover\\restart_button_hover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
