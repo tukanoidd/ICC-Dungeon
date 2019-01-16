@@ -9,9 +9,8 @@ if (!stop_draw) {
 	if (i + 4 > string_length(str)) i = string_length(str);
 
 	draw_set_halign(fa_center);
-	if (i == string_length(str)) draw_text_ext(960, 1034, "Click LMB to proceed...", 50, 1920);
-	
 	draw_set_color(c_white);
+	if (i == string_length(str)) draw_text_ext(960, 1034, "Click LMB to proceed...", 50, 1920);
 }
 
 else {
