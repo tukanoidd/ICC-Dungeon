@@ -271,14 +271,6 @@
             }
         },
         {
-            "Key": "4487617a-2b3a-4354-aa89-10b17706659a",
-            "Value": {
-                "id": "9dc24f05-8f5f-4458-b2a3-f4c98062af8b",
-                "resourcePath": "datafiles_yy\\Fipps-Regular.otf.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "519068ff-bdf5-461e-baca-96c4075e6b1e",
             "Value": {
                 "id": "0cf7c216-3445-4b33-a333-8d74d8a49880",
@@ -324,6 +316,14 @@
                 "id": "908b0b7c-5ba9-4383-8505-be16fffe5415",
                 "resourcePath": "scripts\\create_spain_db\\create_spain_db.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "68683216-66ee-4bd8-8161-b9eaed75c9ce",
+            "Value": {
+                "id": "69974ef3-3505-4dc4-b3c5-4b06357365f1",
+                "resourcePath": "datafiles_yy\\highscore.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -508,14 +508,6 @@
                 "id": "bb76b1e4-2067-4877-a30f-737c52821af0",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "aaf0a0d1-d845-4524-82de-f6ae9da13389",
-            "Value": {
-                "id": "90e09e70-f0b3-45fc-9f50-661bab00caf8",
-                "resourcePath": "datafiles_yy\\LycheeSoda.ttf.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -740,14 +732,6 @@
                 "id": "691cfd74-bdcc-47e2-9adc-1dfda2528c85",
                 "resourcePath": "views\\e057c728-0e56-493d-abdb-71e80a268021.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e407783e-44b7-4ee8-9e0f-bfc7925e2fe0",
-            "Value": {
-                "id": "a861417f-e886-4191-9f6c-1520daf52a22",
-                "resourcePath": "datafiles_yy\\Minecraft.ttf.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
