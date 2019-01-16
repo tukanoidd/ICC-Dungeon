@@ -687,6 +687,14 @@
             }
         },
         {
+            "Key": "d62da0db-411f-4196-8c53-b5b31969eeec",
+            "Value": {
+                "id": "228affc5-2bfc-48f8-9351-c6c58a33bc18",
+                "resourcePath": "fonts\\highscore_font\\highscore_font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "d993c0b9-545d-436d-975a-c4592ada8d00",
             "Value": {
                 "id": "874e2784-0b50-4a5d-876b-84a7ce72f7b4",

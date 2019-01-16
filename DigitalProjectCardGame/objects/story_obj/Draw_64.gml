@@ -20,6 +20,7 @@ else {
 	draw_sprite(coin_spr, -1, 964, 65);
 	draw_text(943 - convert[? (global.char_points > 9)], 70, string(global.char_points) + "x");
 	
+	draw_set_font(highscore_font);
 	draw_set_halign(fa_center);
 	draw_sprite(points_textbox, 0, 864, 118);
 	draw_text_ext(960, 136, "Highscore: " + string(hghsc), 20, 172);
