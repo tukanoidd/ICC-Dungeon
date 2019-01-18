@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "59716820-9149-4f35-b9a9-a0ddfb13779f",
+            "Value": {
+                "id": "c71e7733-0b21-4240-b07a-87e75d006237",
+                "resourcePath": "fonts\\scen_ans_font\\scen_ans_font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "5e125f45-e888-4fa3-b44a-49bb6485abbd",
             "Value": {
                 "id": "a729393b-1ea7-4ff0-bb57-862fbf38bfde",
@@ -636,6 +644,14 @@
                 "id": "17688550-bfd8-42cf-8c0e-800f49637781",
                 "resourcePath": "sprites\\card_face_spr\\card_face_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc73a81e-5233-4bab-9f03-c07239fe7ec4",
+            "Value": {
+                "id": "81e0aa86-8b26-4f9c-8f4c-b2ad1c7dd8a4",
+                "resourcePath": "fonts\\end_str_font\\end_str_font.yy",
+                "resourceType": "GMFont"
             }
         },
         {

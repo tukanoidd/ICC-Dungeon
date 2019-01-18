@@ -8,8 +8,11 @@ else {
 	
 	if (global.char_points > hghsc) hghsc = global.char_points;
 	
+	if (hghsc == 24) hs = 0;
+	else hs = hghsc;
+	
 	fl = file_text_open_write(working_directory + "\highscore.txt");
-	file_text_write_string(fl, string(hghsc));
+	file_text_write_string(fl, string(hs));
 	file_text_close(fl);
 }
 
@@ -17,5 +20,5 @@ stop_draw = false;
 i = 0;
 
 convert = ds_map_create();
-ds_map_add(convert, true, 15);
+ds_map_add(convert, true, 9);
 ds_map_add(convert, false, 0);

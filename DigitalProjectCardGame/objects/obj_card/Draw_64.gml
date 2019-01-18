@@ -6,7 +6,6 @@ points = ans[? "points"];
 exp_str = sc[? "explanation"];
 
 draw_set_color(c_black);
-draw_set_font(-1);
 
 if (pressed && first_clicked && sprite_index == card_face_spr) { 
 	draw_set_halign(fa_center);
@@ -18,6 +17,8 @@ if (pressed && first_clicked && sprite_index == card_face_spr) {
 if (x == target_x) {
 	draw_set_color(c_white);
 	
+	draw_set_font(scen_ans_font);
+	
 	draw_set_halign(fa_center);
 	draw_sprite_ext(question_textbox, 0, 160, 32, 1, 1, 0, c_white, 0.75);
 	draw_text_ext(960, 48, q_str, 20, 1568);
@@ -26,3 +27,6 @@ if (x == target_x) {
 	else draw_sprite_ext(ans_textbox_idle, 0, x, 609, 1, 1, 0, c_white, 0.75);
 	draw_text_ext(x + 159, 638, ans_str, 20, 260);
 }
+
+
+draw_set_font(-1);
