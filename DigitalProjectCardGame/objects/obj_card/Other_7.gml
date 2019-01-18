@@ -1,0 +1,1 @@
+if (sprite_index == card_unlock) sprite_index = card_face_spr;

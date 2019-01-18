@@ -8,7 +8,7 @@ exp_str = sc[? "explanation"];
 draw_set_color(c_black);
 draw_set_font(-1);
 
-if (pressed && first_clicked) { 
+if (pressed && first_clicked && sprite_index == card_face_spr) { 
 	draw_set_halign(fa_center);
 	draw_set_font(exp_font);
 	draw_text_ext(x + 160, y + 61, exp_str + "\n\n" + "You get " + string(points) + " coin" + s[? (points > 1)] + ".", 20, 244);

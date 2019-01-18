@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "baccdc1d-5319-4098-af24-f33740c485c4",
+            "Value": {
+                "id": "5bf9b430-f98f-47b7-b92a-1cab620bfaef",
+                "resourcePath": "sprites\\card_unlock\\card_unlock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bc50f0de-7b76-48de-bb87-9a254fd92b74",
             "Value": {
                 "id": "539b90cd-b516-4836-9c08-2d93b29a6eaa",
