@@ -1,4 +1,4 @@
-# digitalprojectgame
+# ICC-Dungeon
 Digital Project Game 2nd block GD Hanze
 
 Group Project
